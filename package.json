@@ -1,0 +1,29 @@
+{
+  "name": "twitter-bot-1",
+  "version": "1.0.0",
+  "description": "A twitter bot app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iidrees/twitter-bot-1.git"
+  },
+  "keywords": [
+    "Node",
+    "JS",
+    "Twitter",
+    "Bot"
+  ],
+  "author": "Idrees",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iidrees/twitter-bot-1/issues"
+  },
+  "homepage": "https://github.com/iidrees/twitter-bot-1#readme",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "twitter": "^1.7.1"
+  }
+}
